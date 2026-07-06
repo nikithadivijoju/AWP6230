@@ -1,2 +1,2 @@
 hello git 
-complte git steps
+compelte git steps
